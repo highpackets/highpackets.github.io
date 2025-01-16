@@ -1,0 +1,12 @@
+name = "dose"
+description = "a small blog theme"
+license = "MIT"
+homepage = "https://github.com/oltdaniel/dose"
+min_version = "0.14.0"
+demo = "https://oltdaniel.github.io/dose"
+
+[extra]
+
+[author]
+name = "oltdaniel"
+homepage = "https://oltdaniel.eu"
